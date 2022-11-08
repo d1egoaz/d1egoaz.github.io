@@ -3,6 +3,16 @@
 
 Hi, I'm Diego! Welcome to my personal website.
 
+### Blog posts
+
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
+
 ### Contact
 
 - Email: [info@diegoa.ca](mailto:info@diegoa.ca)
