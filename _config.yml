@@ -4,6 +4,7 @@ tagline: software engineering, emacs enthusiast, golang, rust
 description: >-
   software engineering, emacs enthusiast, golang, rust
 url: "https://www.diegoa.ca"
+baseurl: ""
 github:
   username: d1egoaz
 avatar: https://avatars.githubusercontent.com/u/950087?v=4

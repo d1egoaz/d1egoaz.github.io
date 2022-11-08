@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Contact
-order: 2
+permalink: /contact/
 ---
 
 ### Contact
