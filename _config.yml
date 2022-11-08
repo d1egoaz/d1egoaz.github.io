@@ -1,6 +1,23 @@
 name: Diego Alvarez
-title: d1egoaz
+title: Diego Alvarez (d1egoaz)
+tagline: software engineering, emacs enthusiast, golang, rust
+description: >-
+  software engineering, emacs enthusiast, golang, rust
+url: "https://www.diegoa.ca"
+github:
+  username: d1egoaz
+avatar: https://avatars.githubusercontent.com/u/950087?v=4
+social:
+  # It will be displayed as the default author of the posts and the copyright owner in the Footer
+  name: Diego Alvarez
+  email: diego.canada@icloud.com
+  links:
+    # The first element serves as the copyright owner's link
+    - https://github.com/d1egoaz
+    - https://www.linkedin.com/in/d1egoaz
+
+toc: true
 remote_theme: pages-themes/midnight@v0.2.0
 plugins:
-- jekyll-remote-theme
+  - jekyll-remote-theme
 show_downloads: false
